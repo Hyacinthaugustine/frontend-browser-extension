@@ -6,9 +6,15 @@ interface ActivityBarProps {
 }
 
 const ActivityBar = ({ active, setActive }: ActivityBarProps) => {
+  const storedDataLength = sessionStorage.getItem("extensions");
+  const extensions = storedDataLength ? JSON.parse(storedDataLength) : [];
+  const extensionLength = extensions.length;
+
   return (
     <div className="flex justify-between items-center md:flex-row flex-col gap-2 md:gap-0">
-      <h1 className="text-2xl font-bold text-neutral-0">Extension Lists</h1>
+      <h1 className="text-3xl font-bold text-neutral-0 dark:text-neutral-800">
+        Extension Lists ({extensionLength})
+      </h1>
 
       <div className="flex gap-2 items-center">
         <Button

@@ -10,7 +10,6 @@ realistic projects.
 - [Overview](#overview)
 
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 
 - [My process](#my-process)
@@ -38,10 +37,6 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen
   size
 - See hover and focus states for all interactive elements on the page
-
-### Screenshot
-
-preview.jpg
 
 ### Links
 
@@ -137,7 +132,7 @@ And for safe removals:
 - GitHub - [Hyacinth Augustine](https://github.com/yourusername)
 - Frontend Mentor -
   [@Hyacinthaugustine](https://www.frontendmentor.io/profile/Hyacinthaugustine)
-- Twitter - [@yourusername](https://x.com/HyacinthAu0203)
+- Twitter - [@HyacinthAu0203](https://x.com/HyacinthAu0203)
 
 ---
 

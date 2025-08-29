@@ -42,7 +42,7 @@ Users should be able to:
 
 - Solution URL:
   [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Live Demo](https://your-deployment-url.vercel.app/)
+- Live Site URL: [Live Demo](https://hyacinth-frontend-browser-extension.onrender.com)
 
 ---
 
